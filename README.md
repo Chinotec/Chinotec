@@ -11,7 +11,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Chinotec&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Chinotec&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinotec&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 ---
 [![](https://visitcount.itsvg.in/api?id=Chinotec&icon=0&color=0)](https://visitcount.itsvg.in)
 
