@@ -1,4 +1,5 @@
 ## Hi there, I'm Chinotec👋😄
+- 🔭 I’m currently working on ...
 
 <!--
 **Chinotec/Chinotec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
